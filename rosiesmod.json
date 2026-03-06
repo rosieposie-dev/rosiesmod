@@ -1,0 +1,17 @@
+{
+  "id": "rosiesmod",
+  "name": "Rosie's Mod",
+  "author": [
+    "nep413"
+  ],
+  "description": "A bunch of stupid stuff implemented via joker forge.",
+  "prefix": "rosie",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "ff78b9",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
